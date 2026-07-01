@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Marcos Guilherme 👋
 
-<!--
-**marcosdevnew/marcosdevnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de software.
 
-Here are some ideas to get you started:
+🚀 Atualmente estou focado em evoluir minhas habilidades em programação para conquistar minha primeira oportunidade como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando:
+
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+* ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+* Responsividade
+* Git e GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosdevnew&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdevnew&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=marcosdevnew)
+
+🎯 Objetivos para 2026:
+
+* Conseguir minha primeira vaga como Dev
+* Aprender frameworks modernos
+* Construir projetos cada vez mais desafiadores
+* Evoluir constantemente como programador
+
+## Sobre mim
+
+Sou uma pessoa determinada e gosto de desafios. Acredito que consistência e disciplina transformam objetivos em resultados. Todos os dias busco aprender algo novo e me aproximar do meu sonho de trabalhar com tecnologia.
+
+## Contato
+
+📧 Email: marcosguilhermetop200@gmail.com
+📧Linkedin: https://www.linkedin.com/in/marcos-guilherme-794247267
+📧Instagram:https://www.instagram.com/marcosdev_sites/#

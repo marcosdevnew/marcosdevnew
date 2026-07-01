@@ -15,10 +15,6 @@
 * Responsividade
 * Git e GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosdevnew&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdevnew&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=marcosdevnew)
 
 🎯 Objetivos para 2026:
@@ -35,5 +31,7 @@ Sou uma pessoa determinada e gosto de desafios. Acredito que consistência e dis
 ## Contato
 
 📧 Email: marcosguilhermetop200@gmail.com
+
 📧Linkedin: https://www.linkedin.com/in/marcos-guilherme-794247267
+
 📧Instagram:https://www.instagram.com/marcosdev_sites/#
